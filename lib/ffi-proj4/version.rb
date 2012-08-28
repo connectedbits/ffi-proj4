@@ -1,5 +1,5 @@
 
 module Proj4
-  VERSION = "0.0.1.dev"
+  VERSION = "1.0.1.dev"
 end
 
